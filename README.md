@@ -8,7 +8,16 @@ The dataset was created in the 1970's by Francis Anscombe, an English statistica
 
 ![anscombes-quartet-table](https://user-images.githubusercontent.com/36824025/47649683-ec7be800-db75-11e8-9d09-2687b169f732.png)
 
-When the datasets are plotted however a very different picture is painted. Each dataset presents a very diffent descrption in visual form, despite the numers proximity to each other. 
+When the datasets are plotted however a very different understanding is achieved. Each dataset presents a very diffent description in visual form, despite the numers proximity to each other. Anscombe wanted to emphasise the importance of visualising data first.
+Personally coming from a fine art background, i found this really interseting, as its about the signifigence of visualisiation , how an image can in a instant show to the user the variance, complexity etc of a concept. 
+
+![anscombes dataset graph](https://user-images.githubusercontent.com/36824025/47649837-60b68b80-db76-11e8-8aef-8ac29dc2a0b8.png)
+
+An post in heapanalytics.com discussed the relevance of the dataset in terms of being cautious with summary statistics and an over reliance on these. While useful it can be the detriment of anyone to over rely and accept these and to illustrate the point Anscombes Dataset was referenced and discussed. 
+
+
+
+
 
 
 
